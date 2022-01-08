@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.spam/
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/kadhosts/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/matomo.org-spammers/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/mitchellkrogza-badd-boyz-hosts/list.txt
-ttps://raw.githubusercontent.com/hectorm/hmirror/master/data/pgl.yoyo.org/list.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/pgl.yoyo.org/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/someonewhocares.org/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/spam404.com/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/stevenblack/list.txt
