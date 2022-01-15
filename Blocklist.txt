@@ -5,6 +5,10 @@ https://blocklist.site/app/dl/phishing
 https://blocklist.site/app/dl/ransomware
 https://blocklist.site/app/dl/scam
 https://blocklist.site/app/dl/tracking
+https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
+https://curben.gitlab.io/malware-filter/urlhaus-filter-domains.txt
 https://dbl.oisd.nl/
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -12,6 +16,7 @@ https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
 https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
 https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
@@ -36,6 +41,7 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/stevenblack/list.t
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/winhelp2002.mvps.org/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-browser/list.txt
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
@@ -45,6 +51,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Easylist.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
