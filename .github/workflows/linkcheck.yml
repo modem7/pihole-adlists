@@ -15,4 +15,4 @@ jobs:
     - uses: actions/checkout@v1
     - uses: docker://dkhamsing/awesome_bot:latest
       with:
-        args: /github/workspace/Blocklist.txt --allow-redirect --allow-dupe
+        args: /github/workspace/Blocklist.txt --allow-redirect
