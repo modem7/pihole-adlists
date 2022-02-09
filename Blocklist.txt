@@ -57,4 +57,5 @@ https://v.firebog.net/hosts/Prigent-Ads.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
 https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
