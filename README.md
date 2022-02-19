@@ -2,6 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/modem7/pihole-adlists)
 ![Link Check](https://github.com/modem7/pihole-adlists/actions/workflows/linkcheck.yml/badge.svg)
+[![GitHub last commit](https://img.shields.io/github/last-commit/modem7/pihole-adlists)](https://github.com/modem7/pihole-adlists)
 
 This is a list with URLs for [PiHole](https://github.com/pi-hole/pi-hole) in order to block malware, phishing and spam domains. I also included the ad and tracking blocklists.
 
