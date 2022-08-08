@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "assignees": ["modem7"],
+  "labels": ["dependencies"],
+  "includeForks": "true",
+  "extends": [
+    "config:base"
+  ]
+}
