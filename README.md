@@ -17,7 +17,7 @@ Copy and paste all the URLs at once into the "address" box, click "add", then up
 
 Once Gravity is updated, that's all you need to do. 
 
-![image](https://user-images.githubusercontent.com/4349962/153099774-7a7e5c98-9061-4e15-b65b-48a6858d865b.png)
+![image](https://github.com/modem7/pihole-adlists/assets/4349962/c9a7ce05-359f-4764-a5f1-8abdf1e40106)
 
 ## Things to be aware of:
 
