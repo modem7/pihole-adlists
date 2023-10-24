@@ -13,7 +13,7 @@ Once you've copied, go to Pihole > Adlists.
 
 Copy and paste all the URLs at once into the "address" box, click "add", then update Gravity. 
 
-![image](https://user-images.githubusercontent.com/4349962/153099263-228b0823-cc8d-4efe-b272-fe72e80803a9.png)
+![image](https://github.com/modem7/pihole-adlists/assets/4349962/438ff833-ae5f-4504-a836-a88a1b87232b)
 
 Once Gravity is updated, that's all you need to do. 
 
