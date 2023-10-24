@@ -9,7 +9,7 @@ This is a list with URLs for [PiHole](https://github.com/pi-hole/pi-hole) in ord
 ## To use this
 Open the [blocklist](https://raw.githubusercontent.com/modem7/pihole-adlists/master/Blocklist.txt) and copy the entire thing. 
 
-Once you've copied, go to Pihole > Group Management > Adlists.
+Once you've copied, go to Pihole > Adlists.
 
 Copy and paste all the URLs at once into the "address" box, click "add", then update Gravity. 
 
